@@ -27,6 +27,8 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @Builder
 @Entity
+
+	//djdjfdjkfglgjk
 public class Board {
 
 	@Id
